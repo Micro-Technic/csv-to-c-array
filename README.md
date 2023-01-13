@@ -1,4 +1,4 @@
-# Convert a csv file to an array of integers parseable by gcc
+# Convert a (simple) csv (1 column) file to an array of integers parseable by gcc
 
 Usage: `csv_to_c_array_parser.py [-h] IN.csv [IN.csv ...] OUT.h`
 
